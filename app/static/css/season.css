@@ -1,0 +1,58 @@
+    .title {
+        text-align: center;
+        font-size: 2.5rem;
+        font-weight: bold;
+      }
+
+      .subtitle {
+        text-align: center;
+        font-size: 1.25rem;
+        font-weight: 300;
+      }
+
+      .main {
+        width: 800px;
+        margin: 0 auto;
+        margin-top: 60px;
+      }
+
+      .prices {
+        display: flex;
+      }
+
+      .price-item {
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+        margin: 20px;
+        border-radius: 4px;
+      }
+
+      .price-item-title1 {
+        font-size: 1.25rem;
+        background: lightpink;
+        text-align: center;
+
+      }
+
+      .price-item-title2 {
+        font-size: 1.25rem;
+        background: lightgreen;
+        text-align: center;
+      }
+
+      .price-item-title3 {
+        font-size: 1.25rem;
+        background: orange;
+        text-align: center;
+      }
+
+      .price-item-title4 {
+        font-size: 1.25rem;
+        background: lightblue;
+        text-align: center;
+      }
+
+      .price-item-button1 {
+        align: center;
+      }

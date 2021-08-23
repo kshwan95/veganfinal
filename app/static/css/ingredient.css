@@ -1,0 +1,713 @@
+body{
+  width: 1920px;
+  height: 1024px;
+}
+div.season{
+  position: absolute;
+  top: 63px;
+  left: 756px;
+  width: 469px;
+  height: 150px;
+  text-align: left;
+  font: normal normal normal 100px/150px SangSangFlowerRoad;
+  letter-spacing: 0px;
+  color: #4D5933;
+  opacity: 1;
+}
+
+hr.upper_line{
+  position: absolute;
+  top: 211px;
+  left: 359px;
+  width: 1196px;
+  height: 0px;
+  border: 2px solid #415937;
+  opacity: 1;
+}
+
+hr.line{
+  position: absolute;
+  top: 264px;
+  left: 491px;
+  width: 937px;
+  height: 10px;
+  background: #C8CEB2 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+div.circle1{
+  position: absolute;
+  top: 247px;
+  left: 670px;
+  width: 52px;
+  height: 53px;
+  background: #C8CEB2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  border-radius: 50%;
+}
+
+div.circle_text{
+  position: absolute;
+  top: 251px;
+  left: 687px;
+  width: 19px;
+  height: 45px;
+  text-align: left;
+  font: normal normal normal 30px/45px SangSangFlowerRoad;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+div.circle2{
+  position: absolute;
+  top: 259px;
+  left: 934px;
+  width: 33px;
+  height: 34px;
+  background: #C8CEB2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  border-radius: 50%;
+}
+
+div.circle3{
+  position: absolute;
+  top: 259px;
+  left: 1180px;
+  width: 33px;
+  height: 34px;
+  background: #C8CEB2 0% 0% no-repeat padding-box;
+  opacity: 1;
+  border-radius: 50%;
+}
+
+button.button1{
+  position: absolute;
+  top: 344px;
+  left: 494px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+}
+div.text1{
+  position: absolute;
+  top: 364px;
+  left: 512px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button2{
+  position: absolute;
+  top: 344px;
+  left: 687px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text2{
+  position: absolute;
+  top: 364px;
+  left: 706px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button3{
+  position: absolute;
+  top: 344px;
+  left: 880px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text3{
+  position: absolute;
+  top: 364px;
+  left: 901px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;  
+}
+
+button.button4{
+  position: absolute;
+  top: 344px;
+  left: 1073px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text4{
+  position: absolute;  
+  top: 364px;
+  left: 1094px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button5{
+  position: absolute;
+  top: 344px;
+  left: 1266px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text5{
+  position: absolute;  
+  top: 364px;
+  left: 1287px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button6{
+  position: absolute;
+  top: 451px;
+  left: 494px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+
+div.text6{
+  position: absolute; 
+  top: 469px;
+  left: 512px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1; 
+}
+
+button.button7{
+  position: absolute;
+  top: 451px;
+  left: 687px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text7{
+  position: absolute; 
+  top: 469px;
+  left: 706px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1; 
+}
+
+button.button8{
+  position: absolute;
+  top: 451px;
+  left: 880px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text8{
+  position: absolute; 
+  top: 469px;
+  left: 901px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1; 
+}
+
+button.button9{
+  position: absolute;
+  top: 451px;
+  left: 1073px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text9{
+  position: absolute;  
+  top: 469px;
+  left: 1094px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button10{
+  position: absolute;
+  top: 451px;
+  left: 1266px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text10{
+  position: absolute;  
+  top: 469px;
+  left: 1287px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button11{
+  position: absolute;
+  top: 559px;
+  left: 494px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text11{
+  position: absolute; 
+  top: 578px;
+  left: 512px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1; 
+}
+
+button.button12{
+  position: absolute;
+  top: 559px;
+  left: 687px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text12{
+  position: absolute;  
+  top: 578px;
+  left: 706px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button13{
+  position: absolute;
+  top: 559px;
+  left: 880px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text13{
+  position: absolute;  
+  top: 578px;
+  left: 901px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button14{
+  position: absolute;
+  top: 559px;
+  left: 1073px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text14{
+  position: absolute;  
+  top: 578px;
+  left: 1094px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button15{
+  position: absolute;
+  top: 559px;
+  left: 1266px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+
+div.text15{
+  position: absolute;  
+  top: 578px;
+  left: 1287px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button16{
+  position: absolute;
+  top: 666px;
+  left: 495px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text16{
+  position: absolute;  
+  top: 687px;
+  left: 513px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button17{
+  position: absolute;
+  top: 666px;
+  left: 688px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text17{
+  position: absolute;  
+  top: 687px;
+  left: 707px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button18{
+  position: absolute;
+  top: 666px;
+  left: 881px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text18{
+  position: absolute;  
+  top: 687px;
+  left: 902px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button19{
+  position: absolute;
+  top: 666px;
+  left: 1074px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text19{
+  position: absolute; 
+  top: 687px;
+  left: 1095px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937; 
+}
+
+button.button20{
+  position: absolute;
+  top: 666px;
+  left: 1267px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+
+div.text20{
+  position: absolute;  
+  top: 687px;
+  left: 1288px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button21{
+  position: absolute;
+  top: 773px;
+  left: 495px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text21{
+  position: absolute;  
+  top: 793px;
+  left: 513px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button22{
+  position: absolute;
+  top: 773px;
+  left: 688px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+  
+}
+
+div.text22{
+  position: absolute;  
+  top: 793px;
+  left: 707px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button23{
+  position: absolute;
+  top: 773px;
+  left: 881px;
+  width: 158px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text23{
+  position: absolute;  
+  top: 793px;
+  left: 902px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button24{
+  position: absolute;
+  top: 773px;
+  left: 1074px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text24{
+  position: absolute;  
+  top: 793px;
+  left: 1095px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.button25{
+  position: absolute;
+  top: 773px;
+  left: 1267px;
+  width: 159px;
+  height: 62px;
+  background: #C2DEAD 0% 0% no-repeat padding-box;
+  border: 1px dashed #415937;
+  opacity: 0.17;
+}
+
+div.text25{
+  position: absolute;  
+  top: 793px;
+  left: 1288px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  font: normal normal normal 22px/26px NanumSquare;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
+
+button.how{
+  position: absolute;
+  top: 870px;
+  left: 796px;
+  width: 316px;
+  height: 62px;
+  border: 2px solid #415937;
+  opacity: 0.17;
+  font-family: SeoulHangang;
+  font-size: 18px;
+  border-radius: 5%;
+}
+div.howtext{
+  position: absolute;
+  top: 883px;
+  left: 916px;
+  width: 80px;
+  height: 33px;
+  text-align: center;
+  font: normal normal normal 22px/33px SangSangFlowerRoad;
+  letter-spacing: 0px;
+  color: #415937;
+  opacity: 1;
+}
